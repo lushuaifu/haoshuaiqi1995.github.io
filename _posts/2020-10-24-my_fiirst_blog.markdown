@@ -40,11 +40,11 @@ image：封面路径
 
 如下图所示：
 
-<div align="center"><img src=../img/title.png></br>(标题 子标题)</div>
+<div align="center"><img src="https://images.cnblogs.com/cnblogs_com/lutaishi/1869791/o_201025035141title.png"></br>(标题 子标题)</div>
 
 
 
-<div align="center"><img src=../img/author.png></br>(头像 作者 日期)</div>
+<div align="center"><img src="https://images.cnblogs.com/cnblogs_com/lutaishi/1869791/o_201025035151author.png"></br>(头像 作者 日期)</div>
 
 ### typora的使用
 
