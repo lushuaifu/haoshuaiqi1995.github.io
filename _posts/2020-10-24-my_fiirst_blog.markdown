@@ -2,7 +2,7 @@
 title:  "my first blog"
 subtitle: "this is subtitle"
 author: "lanlan"
-avatar: "img/authors/yanzu.png"
+avatar: "img/authors/yanzu.jpg"
 image: "img/g.jpg"
 date:   2020-10-24 12:12:12
 ---
@@ -28,4 +28,4 @@ title的书写，如下所示：
 > image: "img/g.jpg"
 > date:   2020-10-24 12:12:12
 
-内容书写使用typo'ra
+内容书写使用typora
